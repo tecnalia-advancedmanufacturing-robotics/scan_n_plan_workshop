@@ -8,6 +8,7 @@
 #include <rclcpp/node.hpp>
 #include <rclcpp/client.hpp>
 #include <rviz_polygon_selection_tool/srv/get_selection.hpp>
+#include <tf2_ros/buffer.h>
 #include <tf2_ros/transform_listener.h>
 
 namespace Ui
